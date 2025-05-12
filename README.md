@@ -1,4 +1,4 @@
->   ! [OYO text](/line/img/IFS.png)
+>   ![OYO text](/line/img/IFS.png)
 
 
 <!-- Tambahkan ini di <head> HTML kamu -->
